@@ -1,1 +1,17 @@
+Case Study: Netflix Personalization and Recommendation Systems
+Link: https://netflixtechblog.com/system-architectures-for-personalization-and-recommendation-e081aa94b5d8
 
+a. What problem needs to be solved?
+Netflix has a huge amount of movies and shows, so it can be hard for people to choose what to watch. If users cannot find something good fast, they might get bored and leave. So the problem is helping users find something they will actually like without wasting time searching.
+
+b. How was programming used to solve the problem?
+Programming was used to build systems that track what people watch and interact with, such as what they click, pause, or stop watching. Then Netflix uses code and algorithms to recommend shows or movies that match the user’s taste. It basically tries to “guess” what you might like based on your past choices.
+
+c. What challenges were faced during the process?
+A big challenge is the volume of data, since Netflix has millions of users and a lot of content. Another challenge is that people’s tastes change, so the system has to continually update its recommendations. Also, the system has to be fast, because users expect the Netflix homepage to load quickly.
+
+d. What solutions were implemented to overcome these challenges?
+Netflix uses different computer systems (architectures) to handle personalization, such as separating parts of the system to run faster and avoid overload. They also use models and algorithms that efficiently process large amounts of data. They improve it by testing and updating the system over time, which makes recommendations better.
+
+e. Explain the problem, how programming helped, and the final solution.
+The problem was that users had too many choices, and it was hard to find something to watch. Programming helped by using user data to make personalized recommendations and organize what shows up on the screen. The final solution is a recommendation system that suggests movies and shows based on each person’s behavior, making it easier to choose something and enjoy Netflix more.
